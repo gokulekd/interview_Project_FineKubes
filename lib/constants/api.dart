@@ -1,0 +1,1 @@
+String baseUrl = "https://api.publicapis.org/entries";
